@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development.
 - 🌱 I’m currently using Spring Framework.
 - 💞️ I’m looking to collaborate on open source / initial stage projects.
-- 📫 Mail me at mittalprateek999@gmail.com
+- 📫 Reach me out via mail at mittalprateek999@gmail.com
 
 <!---
 prateek035/prateek035 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

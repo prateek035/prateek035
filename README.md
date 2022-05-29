@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prateek035
 - 👀 I’m interested in backend development.
 - 🌱 I’m currently using Spring Framework.
-- 💞️ I’m looking to collaborate on open source / initial stage projects.
+- 💞️ I’m looking to collaborate on early stage projects.
 - 📫 Reach me out via mail at mittalprateek999@gmail.com
 
 <!---
